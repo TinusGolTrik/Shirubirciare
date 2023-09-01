@@ -1,4 +1,4 @@
-# formylittlesister(Rushi Lin)
+# formylittlesister(Shiru Lin)
 
 ## Introduction
 
