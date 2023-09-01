@@ -1,2 +1,7 @@
-# formylittlesister
-Wouldn't be nice to have an international site for that?
+# formylittlesister(Rushi Lin)
+
+## Introduction
+
+A tiny peek of the past-to-be of one little soul.
+
+## Contents
